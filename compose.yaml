@@ -1,0 +1,6 @@
+services:
+  autoclicker:
+    image: autoclicker
+    build:
+      context: .
+      dockerfile: ./Dockerfile
