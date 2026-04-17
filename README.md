@@ -19,11 +19,7 @@ Puedes encontrar el ejecutable en la carpeta [dist/autoclicker.exe](https://gith
 
 ## Requisitos (Solo para desarrolladores)
 
-Para ejecutar este programa, necesitas tener Python instalado y las siguientes librerías:
-
-```bash
-pip install pynput
-```
+Para ejecutar este programa, solo se necesita descargar el archivo ejecutable, si se va a utilizar como base para ser modificado se puede descargar el repositorio completo, al ya estar dockerizado no es necesaria ninguna instalación inicial
 
 ## Instrucciones de Uso
 
