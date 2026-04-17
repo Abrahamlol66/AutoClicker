@@ -12,7 +12,7 @@ Un autoclicker avanzado desarrollado en Python con soporte para múltiples modos
 
 ## Descarga y Ejecución
 
-Puedes encontrar el ejecutable en la carpeta `[dist/autoclicker.exe]`(https://github.com/Abrahamlol66/AutoClicker/tree/main/dist). 
+Puedes encontrar el ejecutable en la carpeta dist/autoclicker.exe(https://github.com/Abrahamlol66/AutoClicker/tree/main/dist). 
 
 - **Ejecutable Independiente:** El archivo `.exe` es **one-file**, lo que significa que contiene todas las librerías necesarias. Puedes moverlo a cualquier carpeta o enviarlo a otra persona y funcionará sin necesidad de instalar Python o las librerías mencionadas.
 - **Permisos de Administrador:** El programa solicitará permisos de administrador al abrirse para poder interactuar correctamente con otras ventanas y juegos.
